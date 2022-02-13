@@ -1,4 +1,4 @@
-- Hello I am Eric. I eat food. I like food. Food good. Life good.
+Hello I am Eric. I eat food. I like food. Food good. Life good.
 
 <!---
 Wu-Bowen/Wu-Bowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
